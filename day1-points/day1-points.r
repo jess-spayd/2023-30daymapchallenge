@@ -3,6 +3,7 @@ library(leaflet)
 
 # Import dataset
 #data <- read_csv("~/Data/Health_Center_Service_Delivery_and_LookAlike_Sites_11-3-2023.csv")
+data <- as.data.frame(Health_Center_Service_Delivery_and_LookAlike_Sites_11_3_2023)
 
 # Subset to only include sites in NJ
 data <- subset(data, data$`Site State Abbreviation` == 'NJ')
