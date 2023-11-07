@@ -49,3 +49,14 @@ migrant_hc_counts <- migrant_hc_counts %>% mutate(n = ifelse(is.na(n), 0, n))
 all_map_data <- left_join(states, migrant_hc_counts, by=c("region"="state_names"))
 
 # Map it
+ggplot(data=all_map_data, mapping=aes(x=long, y=lat, group=group, fill=n)) + 
+  coord_map(projection = "albers", lat0 = 39, lat1 = 45) +
+  geom_polygon(color="black") + 
+  theme(axis.title.x=element_blank(), axis.text.x=element_blank(), axis.ticks.x=element_blank(),
+        axis.title.y=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank()) +
+  theme(panel.background = element_blank()) +
+  labs(title='Number of Migrant Health Center Subprogram Sites') +
+  scale_fill_distiller(type='seq', direction=1, palette='Greys')
+
+
+
