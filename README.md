@@ -9,6 +9,8 @@ Interactive map published on [RPubs](http://rpubs.com/jspayd/day1-points-30dayma
 
 ## [Day 2: Lines](day2-lines.r)
 
+![Day 2: Lines](day2-lines.png)
+
 **Data source**: U.S. Primary Roads, retrieved from [catalog.data.gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-primary-roads-national-shapefile) on November 7, 2023
 
 
