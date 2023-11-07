@@ -15,6 +15,8 @@ Retrieved from [data.HRSA.gov](https://data.hrsa.gov/data/download?hmpgtitle=hmp
 
 ## Day 3: Polygons
 
+![Day 3: Polygons](day3-polygons.png)
+
 Data source: Health Center Service Delivery and Look-Alike Sites
 Retrieved from [data.HRSA.gov](https://data.hrsa.gov/data/download?hmpgtitle=hmpg-hrsa-data) on November 3, 2023
 
