@@ -9,10 +9,7 @@ Interactive map published on [RPubs](http://rpubs.com/jspayd/day1-points-30dayma
 
 ## [Day 2: Lines](day2-lines.r)
 
-Interactive map published on [RPubs](http://rpubs.com/jspayd/day2-lines-30daymapchallenge2023)
-
-**Data source**: DC Metro Lines Regional, retrieved from [opendata.dc.gov](https://opendata.dc.gov/datasets/DCGIS::metro-lines-regional/explore) on November 7, 2023
-
+**Data source**: U.S. Primary Roads, retrieved from [catalog.data.gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-primary-roads-national-shapefile) on November 7, 2023
 
 
 ## [Day 3: Polygons](day3-polygons.r)
@@ -31,8 +28,11 @@ Interactive map published on [RPubs](http://rpubs.com/jspayd/day2-lines-30daymap
 ## Day 6: Asia
 
 
-## Day 7: Navigation
+## [Day 7: Navigation](day7-navigation.r)
 
+Interactive map published on [RPubs](http://rpubs.com/jspayd/day2-lines-30daymapchallenge2023)
+
+**Data source**: DC Metro Lines Regional, retrieved from [opendata.dc.gov](https://opendata.dc.gov/datasets/DCGIS::metro-lines-regional/explore) on November 7, 2023
 
 
 ## Day 8: 
