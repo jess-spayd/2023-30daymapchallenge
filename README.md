@@ -21,13 +21,15 @@ Interactive map published on [RPubs](http://rpubs.com/jspayd/day1-points-30dayma
 **Data source**: Health Center Service Delivery and Look-Alike Sites, retrieved from [data.HRSA.gov](https://data.hrsa.gov/data/download?hmpgtitle=hmpg-hrsa-data) on November 3, 2023
 
 
-## Day 4: A bad map
+## [Day 4: A bad map]()
 
 
-## Day 5: Analog
+## [Day 5: Analog]()
 
 
-## Day 6: Asia
+## [Day 6: Asia]()
+
+**Data source**: Japan Railway Data, retrieved from [https://nlftp.mlit.go.jp/](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02-v3_1.html) on November 8, 2023
 
 
 ## [Day 7: Navigation](day7-navigation.r)
