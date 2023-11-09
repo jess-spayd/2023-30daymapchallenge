@@ -32,9 +32,13 @@ Interactive map published on [RPubs](http://rpubs.com/jspayd/day1-points-30dayma
 
 ## [Day 7: Navigation](day7-navigation.r)
 
-Interactive map published on [RPubs](http://rpubs.com/jspayd/day2-lines-30daymapchallenge2023)
+Interactive map published on [RPubs](http://rpubs.com/jspayd/day7-navigation-30daymapchallenge2023)
 
 **Data source**: DC Metro Lines Regional, retrieved from [opendata.dc.gov](https://opendata.dc.gov/datasets/DCGIS::metro-lines-regional/explore) on November 7, 2023
 
 
-## Day 8: 
+## [Day 8: Africa](day8-africa.r)
+
+Map published on [RPubs](http://rpubs.com/jspayd/day8-africa-30daymapchallenge2023)
+
+**Data source**: Democratic Republic of Congo - Conflict Events, retrieved from [data.humdata.org](https://data.humdata.org/dataset/ucdp-data-for-democratic-republic-of-the-congo) on November 8, 2023
