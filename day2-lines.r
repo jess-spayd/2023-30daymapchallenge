@@ -11,6 +11,8 @@ us_roads <- st_read('tl_2019_us_primaryroads.shp')
 ggplot(us_roads) +
   geom_sf()
 
+
+### https://www.r-bloggers.com/2019/04/zooming-in-on-maps-with-sf-and-ggplot2/ 
 #us_roads_48 <- st_crop(us_roads,
  #                      xmin = 29.5, xmax = 45.5,
   #                     ymin = 37.5, ymax = -96)
