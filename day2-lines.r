@@ -11,6 +11,10 @@ us_roads <- st_read('tl_2019_us_primaryroads.shp')
 ggplot(us_roads) +
   geom_sf()
 
+#us_roads_48 <- st_crop(us_roads,
+ #                      xmin = 29.5, xmax = 45.5,
+  #                     ymin = 37.5, ymax = -96)
+
 # Load USA map data
 
 usa <- map_data('state')
